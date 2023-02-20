@@ -1,7 +1,7 @@
 # NSLookupy
 
 ## Description:
-nslookup.py is a Python script that uses the core Python module and socket function for networking to resolve domain names and retrieve IPs linked to a given domain. The script takes as input a text file that contains a list of domains to be resolved, and outputs a text file including the hosts and IPs related to the domains listed.
+NSlookupy is a Python script uses the core Python module and socket function for networking to resolve domain names and retrieve IPs linked to a given domain. The script takes as input a text file that contains a list of domains to be resolved, and outputs a text file including the hosts and IPs related to the domains listed.
 
 ## Requirements:
 
